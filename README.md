@@ -3,7 +3,7 @@
 
 ### Interests
 * Programming language C++
-* Mathematics and Physics, especially related to games
+* Mathematics and Physics, especially related to game
 * Computer Graphics
 * Server Communication
 * Game Analysis
